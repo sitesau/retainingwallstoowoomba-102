@@ -1,0 +1,22 @@
+{
+  "wheel_id": 715,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-102",
+  "project": "retaining-walls-toowoomba-materials-compared-c9d58f65150320ae06",
+  "parent_t1_ref": "retainingwallstoowoomba-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining walls toowoomba materials compared",
+  "intended_url": "https://sitesau.github.io/retainingwallstoowoomba-102/",
+  "tier": "T2",
+  "writeback_nonce": "7456423bb582fea2",
+  "links": [
+    {
+      "target_url": "http://retaining-walls-toowoomba-a0421a6417397a954c973f1badab5cc6ff9b7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
